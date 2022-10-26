@@ -1,0 +1,345 @@
+{"ch":"q","key":{"sequence":"q","name":"q","ctrl":false,"meta":false,"shift":false,"full":"q"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,49,39,"\u001b[M#1'"],"buf":{"type":"Buffer","data":[27,91,77,35,49,39]},"x":16,"y":6,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,88,43,"\u001b[M#X+"],"buf":{"type":"Buffer","data":[27,91,77,35,88,43]},"x":55,"y":10,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,103,42,"\u001b[M#g*"],"buf":{"type":"Buffer","data":[27,91,77,35,103,42]},"x":70,"y":9,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,74,42,"\u001b[M#J*"],"buf":{"type":"Buffer","data":[27,91,77,35,74,42]},"x":41,"y":9,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"ch":"q","key":{"sequence":"q","name":"q","ctrl":false,"meta":false,"shift":false,"full":"q"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,54,39,"\u001b[M#6'"],"buf":{"type":"Buffer","data":[27,91,77,35,54,39]},"x":21,"y":6,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,40,44,"\u001b[M#(,"],"buf":{"type":"Buffer","data":[27,91,77,35,40,44]},"x":7,"y":11,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,41,38,"\u001b[M#)&"],"buf":{"type":"Buffer","data":[27,91,77,35,41,38]},"x":8,"y":5,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,54,36,"\u001b[M#6$"],"buf":{"type":"Buffer","data":[27,91,77,35,54,36]},"x":21,"y":3,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,69,37,"\u001b[M#E%"],"buf":{"type":"Buffer","data":[27,91,77,35,69,37]},"x":36,"y":4,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,63,45,"\u001b[M#?-"],"buf":{"type":"Buffer","data":[27,91,77,35,63,45]},"x":30,"y":12,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,50,38,"\u001b[M#2&"],"buf":{"type":"Buffer","data":[27,91,77,35,50,38]},"x":17,"y":5,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"mouse":{"name":"mouse","ctrl":false,"meta":false,"shift":false,"type":"X10","raw":[35,64,40,"\u001b[M#@("],"buf":{"type":"Buffer","data":[27,91,77,35,64,40]},"x":31,"y":7,"action":"mouseup","button":"left"}} 
+-------------***********-------------
+{"ch":"q","key":{"sequence":"q","name":"q","ctrl":false,"meta":false,"shift":false,"full":"q"}} 
+-------------***********-------------
+{
+  "mouse": {
+    "name": "mouse",
+    "ctrl": false,
+    "meta": false,
+    "shift": false,
+    "type": "X10",
+    "raw": [
+      35,
+      41,
+      38,
+      "\u001b[M#)&"
+    ],
+    "buf": {
+      "type": "Buffer",
+      "data": [
+        27,
+        91,
+        77,
+        35,
+        41,
+        38
+      ]
+    },
+    "x": 8,
+    "y": 5,
+    "action": "mouseup",
+    "button": "left"
+  }
+} 
+-------------***********-------------
+{
+  "mouse": {
+    "name": "mouse",
+    "ctrl": false,
+    "meta": false,
+    "shift": false,
+    "type": "X10",
+    "raw": [
+      35,
+      48,
+      42,
+      "\u001b[M#0*"
+    ],
+    "buf": {
+      "type": "Buffer",
+      "data": [
+        27,
+        91,
+        77,
+        35,
+        48,
+        42
+      ]
+    },
+    "x": 15,
+    "y": 9,
+    "action": "mouseup",
+    "button": "left"
+  }
+} 
+-------------***********-------------
+{
+  "mouse": {
+    "name": "mouse",
+    "ctrl": false,
+    "meta": false,
+    "shift": false,
+    "type": "X10",
+    "raw": [
+      35,
+      61,
+      43,
+      "\u001b[M#=+"
+    ],
+    "buf": {
+      "type": "Buffer",
+      "data": [
+        27,
+        91,
+        77,
+        35,
+        61,
+        43
+      ]
+    },
+    "x": 28,
+    "y": 10,
+    "action": "mouseup",
+    "button": "left"
+  }
+} 
+-------------***********-------------
+{
+  "ch": "q",
+  "key": {
+    "sequence": "q",
+    "name": "q",
+    "ctrl": false,
+    "meta": false,
+    "shift": false,
+    "full": "q"
+  }
+} 
+-------------***********-------------
+{
+ "mouse": {
+  "name": "mouse",
+  "ctrl": false,
+  "meta": false,
+  "shift": false,
+  "type": "X10",
+  "raw": [
+   35,
+   44,
+   43,
+   "\u001b[M#,+"
+  ],
+  "buf": {
+   "type": "Buffer",
+   "data": [
+    27,
+    91,
+    77,
+    35,
+    44,
+    43
+   ]
+  },
+  "x": 11,
+  "y": 10,
+  "action": "mouseup",
+  "button": "left"
+ }
+} 
+-------------***********-------------
+{
+ "ch": "q",
+ "key": {
+  "sequence": "q",
+  "name": "q",
+  "ctrl": false,
+  "meta": false,
+  "shift": false,
+  "full": "q"
+ }
+} 
+-------------***********-------------
+{
+	"mouse": {
+		"name": "mouse",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"type": "X10",
+		"raw": [
+			35,
+			46,
+			37,
+			"\u001b[M#.%"
+		],
+		"buf": {
+			"type": "Buffer",
+			"data": [
+				27,
+				91,
+				77,
+				35,
+				46,
+				37
+			]
+		},
+		"x": 13,
+		"y": 4,
+		"action": "mouseup",
+		"button": "left"
+	}
+} 
+-------------***********-------------
+{
+	"mouse": {
+		"name": "mouse",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"type": "X10",
+		"raw": [
+			35,
+			88,
+			35,
+			"\u001b[M#X#"
+		],
+		"buf": {
+			"type": "Buffer",
+			"data": [
+				27,
+				91,
+				77,
+				35,
+				88,
+				35
+			]
+		},
+		"x": 55,
+		"y": 2,
+		"action": "mouseup",
+		"button": "left"
+	}
+} 
+-------------***********-------------
+{
+	"mouse": {
+		"name": "mouse",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"type": "X10",
+		"raw": [
+			35,
+			69,
+			39,
+			"\u001b[M#E'"
+		],
+		"buf": {
+			"type": "Buffer",
+			"data": [
+				27,
+				91,
+				77,
+				35,
+				69,
+				39
+			]
+		},
+		"x": 36,
+		"y": 6,
+		"action": "mouseup",
+		"button": "left"
+	}
+} 
+-------------***********-------------
+{
+	"mouse": {
+		"name": "mouse",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"type": "X10",
+		"raw": [
+			35,
+			53,
+			40,
+			"\u001b[M#5("
+		],
+		"buf": {
+			"type": "Buffer",
+			"data": [
+				27,
+				91,
+				77,
+				35,
+				53,
+				40
+			]
+		},
+		"x": 20,
+		"y": 7,
+		"action": "mouseup",
+		"button": "left"
+	}
+} 
+-------------***********-------------
+{
+	"mouse": {
+		"name": "mouse",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"type": "X10",
+		"raw": [
+			35,
+			53,
+			40,
+			"\u001b[M#5("
+		],
+		"buf": {
+			"type": "Buffer",
+			"data": [
+				27,
+				91,
+				77,
+				35,
+				53,
+				40
+			]
+		},
+		"x": 20,
+		"y": 7,
+		"action": "mouseup",
+		"button": "left"
+	}
+} 
+-------------***********-------------
+{
+	"ch": "q",
+	"key": {
+		"sequence": "q",
+		"name": "q",
+		"ctrl": false,
+		"meta": false,
+		"shift": false,
+		"full": "q"
+	}
+} 
+-------------***********-------------
